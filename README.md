@@ -9,3 +9,5 @@ How to use:
 Each time you open LotteryChecker, it will scrap lotto data from https://www.lotto.pl/, compare it with your numbers in the database and let you know if you won.
 
 No more tedious comparison of your lottery coupon numbers with lottery numbers drawn!
+
+*Standalone app creation in progress*
