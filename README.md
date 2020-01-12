@@ -21,10 +21,11 @@ Each time you open LotteryChecker, it will scrap lotto data from https://www.lot
 * [ttkthemes](https://pypi.org/project/ttkthemes/) - Themes for tkinter
 * [sqlite3](https://www.sqlite.org/index.html) - Database library
 
+###### Standalone app creation in progress
+
 
 ## Authors
 * [Mrooie](https://github.com/Mrooie)
-*Standalone app creation in progress*
 
 ## License
 
